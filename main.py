@@ -1,10 +1,19 @@
 {
  "cells": [
-   import tensorflow as tf
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "colab": {},
+    "colab_type": "code",
+    "id": "NTwNZcxOOU6W"
+   },
+   "outputs": [],
+   "source": [import tensorflow as tf
 from tensorflow.keras import datasets, layers, models
 import matplotlib.pyplot as plt
 import numpy as np
- ]}
+             ]]}
 
 
 
