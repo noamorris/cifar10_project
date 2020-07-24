@@ -9,11 +9,13 @@
     "id": "NTwNZcxOOU6W"
    },
    "outputs": [],
-   "source": [import tensorflow as tf
-from tensorflow.keras import datasets, layers, models
-import matplotlib.pyplot as plt
-import numpy as np
-             ]]}
+   "source": [
+    "import tensorflow as tf\n",
+    "from tensorflow.keras import datasets, layers, models\n",
+    "import matplotlib.pyplot as plt\n",
+    "import numpy as np\n",
+   ]
+  },
 
 
 
